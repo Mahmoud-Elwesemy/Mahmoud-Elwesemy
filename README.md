@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!](https://readme-typing-svg.demolab.com/demo/?lines=Full+Stack.NET+Developer;Graduate+of+the+Faculty+of+computer++Science)" alt="Typing SVG" /></a>
 </p>
 
 - 🏢 ** Graduate of the Faculty of Science - Department of Pure Mathematics and Computer Science **
