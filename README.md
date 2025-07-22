@@ -16,25 +16,52 @@
 
 ### 📌 Featured Projects
 
-- [HR Management System](https://github.com/Mahmoud-Elwesemy/HR-Managment-System) — Full CRUD system using ASP.NET MVC + EF  
-- [Shipping System](https://github.com/Mahmoud-Elwesemy/Shipping-Management-System) — Backend system for tracking deliveries  
-- [Clinic Management System (Back-end)](https://github.com/your-link) — Clean Architecture, JWT, Role-based access  
+[👨‍💼 HR Management System](https://github.com/Mahmoud-Elwesemy/HR-Managment-System) 
+- Internal system to manage employee attendance, leave, overtime, and salary calculations
+- Role-based system: HR/Admin
+- Calculates salary deductions and overtime additions
+- Built using ASP.NET MVC + Entity Framework
+[🚚 Shipping Company System](https://github.com/Mahmoud-Elwesemy/Shipping-Management-System)
+- An internal system to manage shipping orders, regions, cities, shipping types, and order tracking.
+- Location-based shipping calculation
+- Role-based system: Admins, Merchants, Employees, Shipping Agents
+- Built using ASP.NET Core API + Angular
+[🏥 Clinic Management System (Back-end) (In Progress) ](https://github.com/your-link)
+- A full-featured system that manages appointments, visits, treatments, pharmacy stock, lab tests, and role-based dashboards.
+- Developed using **ASP.NET Core Web API** + **Angular**
+- Role-based access: Doctor, Receptionist, Patient, Pharmacist, Lab Technician
+- Features include: booking appointments, tracking visits, prescribing medicines, requesting lab tests, and more.
 
+
+> Always learning. Always building. Always leveling up 💪
 
 ### 🛠️ Tech Stack & Tools
 
-**Back-End**  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)&nbsp;
-![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=database)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+<h3 align="left">🛠️ Back-End Tech Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=ef" alt="EF Core" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=api" alt="REST API" />
+  <img src="https://img.shields.io/badge/AutoMapper-FF6B6B?style=for-the-badge" alt="AutoMapper" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-007ACC?style=for-the-badge" alt="Repository Pattern" />
+  <img src="https://img.shields.io/badge/Unit_of_Work-2C3E50?style=for-the-badge" alt="Unit of Work" />
+  <img src="https://img.shields.io/badge/ASP.NET_Identity-00599C?style=for-the-badge" alt="ASP.NET Identity" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens" alt="JWT" />
+</p>
 
-**Front-End**  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<h3 align="left">🎨 Front-End Tech Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/NG_SELECT-A6120D?style=for-the-badge" alt="ng-select" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+</p>
 
 **Tools**  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
