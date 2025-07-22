@@ -15,6 +15,14 @@
 - 👨‍💻 I am currently training remotely at Azzrk
 
 ### 🛠 &nbsp;Languages and Tools :
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)&nbsp;
+![Web API](https://img.shields.io/badge/-Web%20API-05122A?style=flat&logo=web)&nbsp;
+![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=visualstudio)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=database&logoColor=green)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=red)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Cs](https://img.shields.io/badge/-C%20sharp%20-05122A?style=flat&logo=dot-net)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
 
 
 
