@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Mahmoud Elwesemy's GitHub Profile 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile 👋</h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
@@ -35,10 +35,6 @@
 - Features include: booking appointments, tracking visits, prescribing medicines, requesting lab tests, and more.
 
 
-> Always learning. Always building. Always leveling up 💪
-
-### 🛠️ Tech Stack & Tools
-
 <h3 align="left">🛠️ Back-End Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
@@ -65,7 +61,8 @@
   <img src="https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
 </p>
 
-**Tools**  
+<h3 align="left">🛠️ Tools</h3>
+
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
