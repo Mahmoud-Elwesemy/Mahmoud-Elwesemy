@@ -47,5 +47,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-adel-elwesemy-50b703304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Elsaeed" height="30" width="40" /></a>
-<a href="[https://www.facebook.com/anamahmoud.elwesemy](https://www.facebook.com/anamahmoud.elwesemy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmoud Elwesemy" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-adel-elwesemy-50b703304" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Elwesemy" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/anamahmoud.elwesemy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmoud Elwesemy" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/201032500077" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+</p>
